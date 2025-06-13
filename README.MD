@@ -1,22 +1,20 @@
-# Sorting algorithm visualizer
+SortingVisualizer - Interactive Sorting Algorithm Visualizer
+A beautifully designed, modular, and educational tool built with JavaScript, HTML5, and CSS3 for visualizing popular sorting algorithms.
+Perfect for learners, educators, and developers aiming to understand sorting logic through real-time animations and comparisons.
 
-This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
-
-**Live-** [sorting visualizer](https://dharshakch97.github.io/sort-visualizer/) 
-
-**Code-** [sort visualizer code](https://github.com/dharshakch97/sort-visualizer)
-
-## Purpose
-
-I made this sorting visualizer web application to improve my skills more in
-HTML, CSS, and JS. And to help the beginners in programming to gain more knowledge and understanding on sorting algorigthms by visualizing them.
-
-## What the Sorting algorithms inside this application
-
-This application supports the following sorting algorithms:
-
-1. **Bubble Sort**.
-2. **Insertion Sort**.
-3. **Selection Sort**.
-4. **Merge Sort**.
-5. **Quick Sort**.
+🚀 Features
+🎞️ Real-Time Visualization of Sorting Algorithms
+🔄 Supports Bubble, Selection, Insertion, Merge, and Quick Sort
+⚙️ Adjustable Speed and Array Size
+🧩 Modular JS Architecture (Scalable & Maintainable)
+📱 Fully Responsive UI
+🌈 Clean, Smooth, and Lovable UI/UX
+🎮 Interactive Controls (Start, Pause, Reset)
+📊 Color-coded steps: comparisons, swaps, sorted elements
+🛠️ Prerequisites
+Modern Web Browser (Chrome, Firefox, etc.)
+(Optional) Live Server extension for VSCode or Python HTTP server for local preview
+📦 Setup Instructions
+1. Clone the Repository
+git clone https://github.com/piyushGit1229/SortingVisualizer.git
+cd SortingVisualizer
