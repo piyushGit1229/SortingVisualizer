@@ -25,6 +25,10 @@ Perfect for learners, educators, and developers aiming to understand sorting log
 
 ---
 
+Demo 
+
+![Image](https://github.com/user-attachments/assets/373fed4b-4bcd-40ad-8ce6-ddcebd530d17)
+
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repository
@@ -33,6 +37,4 @@ Perfect for learners, educators, and developers aiming to understand sorting log
 git clone https://github.com/piyushGit1229/SortingVisualizer.git
 cd SortingVisualizer
 
-Demo 
 
-![Image](https://github.com/user-attachments/assets/373fed4b-4bcd-40ad-8ce6-ddcebd530d17)
