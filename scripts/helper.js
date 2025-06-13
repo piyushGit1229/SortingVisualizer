@@ -29,6 +29,7 @@ class Helper {
         await this.pause();
         let value1 = Number(this.list[index1].getAttribute("value"));
         let value2 = Number(this.list[index2].getAttribute("value"));
+        Helper.incComparison();
         if(value1 > value2) {
             return true;
         }
@@ -43,5 +44,14 @@ class Helper {
         this.list[index1].style.height = `${3.8*value2}px`;
         this.list[index2].setAttribute("value", value1);
         this.list[index2].style.height = `${3.8*value1}px`;
+    }
+
+    // utility to increment comparison counter from algorithms not using compare()
+    static incComparison() {
+        window.comparisonCount = (window.comparisonCount || 0) + 1;
+        const cmpEl = document.getElementById('comparisons');
+        if (cmpEl && window.comparisonCount % 25 === 0) {
+            cmpEl.textContent = `Comparisons: ${window.comparisonCount}`;
+        }
     }
 };
