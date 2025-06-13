@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # SortingVisualizer - Where Algorithms Come Alive 🧠✨
 
 A beautifully designed, modular, and educational tool built with **JavaScript**, **HTML5**, and **CSS3** for visualizing popular sorting algorithms.  
